@@ -1,2 +1,2 @@
 # Quiz-app-
-It a quiz question for programmer
+It a quiz question for frontend developer
