@@ -6,13 +6,8 @@
 }
 body {
     background-color: #bdc3c7;
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
     height: 100vh;
     overflow: hidden;
-    /* margin: 0; */
-    /* padding: 0; */
 }
 .container-fluid{
     width: 100%;
@@ -93,7 +88,6 @@ ul li label {
 .footer {
     background-color: #002e3b;
     color: rgb(255, 255, 255, .9);
-    /* padding: 20px; */
     position: fixed;
     bottom: 0;
     width: 100%;
