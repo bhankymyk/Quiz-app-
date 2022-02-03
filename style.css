@@ -93,3 +93,8 @@ ul li label {
     bottom: 0;
     width: 100%;
 }
+@media screen and (min-width: 375px) {
+    .quiz-header {
+        padding : 1rem;
+    }  
+}
